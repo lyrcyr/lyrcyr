@@ -13,7 +13,7 @@ Currently, I am interested in applying deep learning methods to human–robot in
 ## Research Interests
 
 - Physical human–robot interaction
-- Compliant control
+- Fractional sliding mode control
 - Human intention understanding
 - Trajectory optimization
 - Learning-based robot control
