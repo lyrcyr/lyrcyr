@@ -14,12 +14,10 @@ Currently, I am interested in applying deep learning methods to human–robot in
 
 - Physical human–robot interaction
 - Compliant control
-- Safety-aware interaction
 - Human intention understanding
 - Trajectory optimization
 - Learning-based robot control
-- Deep learning for robotics
-- Haptic interaction
+- Deep learning for human–robot interaction
 
 ## Education
 
